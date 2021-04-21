@@ -1,15 +1,15 @@
-#### Project Description:
+##### Project Description:
 
 The project shows how to fetch data from a 3rd party API and show it on the UI in a tabular format using React components. 
 
-#### Version: 1.0.0
+##### Version: 1.0.0
 
-#### Motivation: 
+##### Motivation: 
 
 I want to learn react so I started with a project that fetches data and updates on the UI. I was told that, software engineers normally fetch and update data on the UI.
 Hence I started with this example.
 
-###### Topics/ Concepts: 
+##### Topics/ Concepts: 
 
 I had learnt and practised the following concepts in React while working on this project. 
 
