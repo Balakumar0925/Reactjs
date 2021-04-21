@@ -1,24 +1,38 @@
-Project for create the table using REACTJS and fetch the data From API
+#### Project Description:
 
-In react.js i have used and learn the concepts are below:
+The project shows how to fetch data from a 3rd party API and show it on the UI in a tabular format using React components. 
 
-   React Components
-   React State and setState
-   React Props 
-   React Hooks
-   React LifeCycle
+#### Version: 1.0.0
 
-Fetch the data from API using third-party module AXIOS
-   AXOIS is using for get the data valuse from the API and axios is used for request methods like get ,post
-   patch,delete and etc..
+#### Motivation: 
 
-Create Table 
-    The Table was createing to use third module react-table 
-    The react-table was simlify the creating columns and rows and we assign the columns with header and accessor
-      header is the we creating header of the table and accessor was return the data value
+I want to learn react so I started with a project that fetches data and updates on the UI. I was told that, software engineers normally fetch and update data on the UI.
+Hence I started with this example.
 
-    react table has the usetable component was used and other concepts are like
-       getTableProps
-       headergroups 
+###### Topics/ Concepts: 
 
-![IMAGE](table.png)
+I had learnt and practised the following concepts in React while working on this project. 
+
+   * React Class
+   * React State and updating the state using setState
+   * React Components
+   * React Hooks ( useState )
+   * React Lifecycle
+   * Axios Library Vs node-fetch Vs request
+   * React List and Keys
+   * How to  update the react component,  when we receive Array or Object
+   * How to create a table using the default <table> 
+   * How to create table using external library like [React-Table](https://react-table.tanstack.com/docs/api)
+
+
+
+##### Image
+
+![](https://github.com/Balakumar0925/Reactjs/blob/main/public/table.png)
+
+
+##### Feature Enhancements: 
+
+* Introduce header and footer
+* Provide UX improvements by creating a structured layout using CSS grid
+* Provide sorting and searching functionality on the react-table
